@@ -1,0 +1,14 @@
+Role
+We are looking for a summer software engineering intern to develop J2EE components, work on feature enhancements, and do code refactoring for a multi-petabyte, multi-million user business intelligence application.
+The intern will be an important part of our small but incredible R&D team, which is currently made up of about 15 Masters and PhD computer scientists from around the world, and will actually get to see his or her work implemented in our product. Our intern must therefore be both talented and driven to deliver excellent work, and must know how to think critically about design before coding.
+This is a great opportunity for someone who wants to get exposure to software development and deployment in an enterprise environment and, because our team is growing, there is the possibility of full-time employment after graduation.
+Requirements
+J2EE (prior experience either in school or in a past internship is required)
+Java
+SQL
+Strong understanding of computer science fundamentals and software engineering principles
+Thanks and good luck!
+about us
+Collective[i] offers great benefits, competitive salaries, equity, and perks like free snacks and drinks in the office and discounted gym memberships. We’re conveniently located in Flatiron near several subway lines and commuter rails and buses, and our neighborhood has a lot of great restaurants and fun things to do.
+The best part about working here is being surrounded by smart, down-to-earth, passionate people and knowing that we’re building a product that will revolutionize how businesses use Big Data.
+Collective[i] is an equal opportunity employer.
